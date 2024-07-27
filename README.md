@@ -1,0 +1,1 @@
+**Basic Landing Page** This repository contains the html and css code for a basic landing page. The landing page is designed to introduce visitors to know about the popular tourist places. For queries or feedback contact 'suryavanapalli77@gmail.com'
